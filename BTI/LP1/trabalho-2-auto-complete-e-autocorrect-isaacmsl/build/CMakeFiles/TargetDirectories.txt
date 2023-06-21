@@ -1,0 +1,13 @@
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/words_complete_correct.dir
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/tests_interface.dir
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/run_tests_interface.dir
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/tests_database.dir
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/run_tests_database.dir
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/tests_autocomplete.dir
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/run_tests_autocomplete.dir
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/tests_autocorrect.dir
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/run_tests_autocorrect.dir
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/tests.dir
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/run_tests.dir
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/edit_cache.dir
+/home/happyholand/Code/BTI/LP1/trabalho-2-auto-complete-e-autocorrect-isaacmsl/build/CMakeFiles/rebuild_cache.dir

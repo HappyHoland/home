@@ -1,0 +1,4 @@
+C:/Users/lucas/Documents/Tecnologia e Informacao/2022.1/LP1/lp1-lista1-cpp_basico-HappyHoland/intervalos/build/CMakeFiles/program.dir
+C:/Users/lucas/Documents/Tecnologia e Informacao/2022.1/LP1/lp1-lista1-cpp_basico-HappyHoland/intervalos/build/CMakeFiles/verify.dir
+C:/Users/lucas/Documents/Tecnologia e Informacao/2022.1/LP1/lp1-lista1-cpp_basico-HappyHoland/intervalos/build/CMakeFiles/edit_cache.dir
+C:/Users/lucas/Documents/Tecnologia e Informacao/2022.1/LP1/lp1-lista1-cpp_basico-HappyHoland/intervalos/build/CMakeFiles/rebuild_cache.dir

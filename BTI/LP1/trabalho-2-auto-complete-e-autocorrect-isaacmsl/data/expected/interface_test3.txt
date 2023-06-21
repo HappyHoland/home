@@ -1,0 +1,6 @@
+>>> Matches são
+Autocomplete | Autocorrect
+sao          | sao
+             | sal
+             | sai
+             | soa

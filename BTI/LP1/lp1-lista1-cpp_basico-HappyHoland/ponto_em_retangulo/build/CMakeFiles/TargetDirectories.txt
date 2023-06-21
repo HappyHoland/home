@@ -1,0 +1,4 @@
+C:/Users/lucas/Documents/Tecnologia e Informacao/2022.1/LP1/lp1-lista1-cpp_basico-HappyHoland/ponto_em_retangulo/build/CMakeFiles/program.dir
+C:/Users/lucas/Documents/Tecnologia e Informacao/2022.1/LP1/lp1-lista1-cpp_basico-HappyHoland/ponto_em_retangulo/build/CMakeFiles/verify.dir
+C:/Users/lucas/Documents/Tecnologia e Informacao/2022.1/LP1/lp1-lista1-cpp_basico-HappyHoland/ponto_em_retangulo/build/CMakeFiles/edit_cache.dir
+C:/Users/lucas/Documents/Tecnologia e Informacao/2022.1/LP1/lp1-lista1-cpp_basico-HappyHoland/ponto_em_retangulo/build/CMakeFiles/rebuild_cache.dir

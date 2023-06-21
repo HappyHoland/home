@@ -1,0 +1,5 @@
+Autocomplete                | Autocorrect
+sao paulo, brazil           | sao
+sao pedro da aldeia, brazil | soa
+sao pedro, brazil           | sal
+sao pedro da cova, brazil   | sai

@@ -1,0 +1,6 @@
+>>> Matches são
+Autocomplete | Autocorrect
+entre        | <nenhuma>
+engraxate    | 
+engavetar    | 
+engracado    | 
